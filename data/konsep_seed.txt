@@ -1,0 +1,28 @@
+Mahasiswa
+Program Sarjana
+Program Magister
+Program Doktor
+Kurikulum
+Satuan Kredit Semester
+Beban Studi
+Indeks Prestasi Semester
+Indeks Prestasi Kumulatif
+Registrasi Akademik
+Perwalian
+Dosen Wali
+Perkuliahan
+Ujian
+Penilaian
+Cuti Akademik
+Masa Studi
+Evaluasi Studi
+Pemberhentian Studi
+Pengunduran Diri
+Sanksi Akademik
+Tugas Akhir
+Yudisium
+Kelulusan
+Predikat Kelulusan
+Merdeka Belajar Kampus Merdeka
+Transfer Kredit
+Rekognisi Pembelajaran Lampau

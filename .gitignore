@@ -1,0 +1,23 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# neo4j docker volume
+neo4j/
+
+# eval output
+eval/results/
+
+# frontend
+node_modules/
+.next/
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/

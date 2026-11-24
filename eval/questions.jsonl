@@ -1,0 +1,3 @@
+{"id": "q001", "pertanyaan": "Berapa lama maksimal cuti akademik yang boleh diambil mahasiswa sarjana?", "jawaban_acuan": "TODO isi dari pasal", "pasal_acuan": ["TODO"], "kategori": "faktual"}
+{"id": "q002", "pertanyaan": "Apa syarat mahasiswa boleh mengambil beban studi maksimal dalam satu semester?", "jawaban_acuan": "TODO", "pasal_acuan": ["TODO"], "kategori": "aturan"}
+{"id": "q003", "pertanyaan": "Kapan mahasiswa dinyatakan tidak boleh melanjutkan studi setelah evaluasi studi?", "jawaban_acuan": "TODO", "pasal_acuan": ["TODO"], "kategori": "multi-pasal"}
